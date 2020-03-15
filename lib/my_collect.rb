@@ -1,5 +1,6 @@
 students = []
-
+if block_given?
+  
 def my_collect
   
   
