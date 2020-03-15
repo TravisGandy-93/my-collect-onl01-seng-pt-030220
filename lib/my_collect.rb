@@ -1,8 +1,8 @@
 array = ["Tim Jones", "Tom Smith", "Jim Campagno"]
 collection = ['ruby', 'javascript', 'python', 'objective-c']
 
-def my_collect(array)
-  yield
+def my_collect(x)
+  yield(x)
   puts "we're collecting now."
 end
 
