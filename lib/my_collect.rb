@@ -9,7 +9,7 @@ end
 
 array = ["Tim Jones", "Tom Smith", "Jim Campagno"]
 my_collect(array) do |name|
-  name.split(" ").first
+  name.split(/ /).first
 end
 
 collection = ['ruby', 'javascript', 'python', 'objective-c']
