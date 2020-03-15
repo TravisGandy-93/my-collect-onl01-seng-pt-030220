@@ -2,6 +2,7 @@ students = []
   
 def my_collect
   yield()
+  puts "we're collecting now."
 end
 
 
