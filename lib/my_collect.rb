@@ -1,7 +1,6 @@
 students = []
   
 def my_collect
-  if block_given?
   yield()
 end
 end
