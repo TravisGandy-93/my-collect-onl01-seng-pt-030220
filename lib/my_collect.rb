@@ -3,7 +3,7 @@ students = []
 def my_collect
   yield()
 end
-end
+
 
 array = ["Tim Jones", "Tom Smith", "Jim Campagno"]
 my_collect(array) do |name|
