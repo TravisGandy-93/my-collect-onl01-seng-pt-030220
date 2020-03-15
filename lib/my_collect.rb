@@ -1,5 +1,6 @@
 array = ["Tim Jones", "Tom Smith", "Jim Campagno"]
 
+
 def my_collect(array)
   yield
   puts "we're collecting now."
