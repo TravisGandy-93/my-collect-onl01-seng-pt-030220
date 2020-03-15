@@ -8,6 +8,7 @@ def my_collect(x)
   new_array << yield(x[i])
     i += 1
   end
+  new_array
 end
 
 
