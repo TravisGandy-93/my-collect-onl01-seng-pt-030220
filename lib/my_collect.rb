@@ -1,7 +1,7 @@
 students = []
   
-def my_collect
-  yield()
+def my_collect(array)
+  yield
   puts "we're collecting now."
 end
 
