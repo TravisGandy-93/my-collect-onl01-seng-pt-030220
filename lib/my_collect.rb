@@ -1,3 +1,3 @@
-students = ["Jon Jones","Bon Bones","Con Cones"]
+students = []
 
-def 
+def my_collect
