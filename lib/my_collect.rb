@@ -3,6 +3,7 @@ collection = ['ruby', 'javascript', 'python', 'objective-c']
 
 def my_collect(x)
   yield(x)
+  while 
   puts "we're collecting now."
 end
 
